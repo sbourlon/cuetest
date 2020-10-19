@@ -1,3 +1,3 @@
-package t
+package project
 
 bar: 300
