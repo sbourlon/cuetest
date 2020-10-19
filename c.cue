@@ -1,3 +1,3 @@
-package project
+package cuetest
 
 bar: 300
