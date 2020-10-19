@@ -1,1 +1,1 @@
-module: "localhost/srv/git/project"
+module: "github.com/sbourlon/cuetest"
